@@ -10,7 +10,7 @@
 
 ## ✏️ About Me
   <p>
-  I'm a first-year student in the Multiplatform Application Development (DAM). I've studied Java, Python, JavaScript, and TypeScript through various courses, and I'm passionate about building creative and practical solutions. I'm eager to keep learning, collaborate on     exciting projects, and grow as a developer.
+  I'm a second-year student in the Multiplatform Application Development (DAM). I've studied Java, Python, JavaScript, and TypeScript through various courses, and I'm passionate about building creative and practical solutions. I'm eager to keep learning, collaborate on     exciting projects, and grow as a developer.
   </p>
 
 
