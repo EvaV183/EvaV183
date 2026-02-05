@@ -9,7 +9,7 @@
 </p>
 </h1>
 
-✏️ About Me
+##✏️ About Me
   <p>
   I'm a second-year student in the Multiplatform Application Development (DAM). I've studied Java, Python, JavaScript, and TypeScript through various courses, and I'm passionate about building creative and practical solutions. I'm eager to keep learning, collaborate on     exciting projects, and grow as a developer.
   </p>
@@ -37,7 +37,7 @@
 - ⚡ Fun fact: Me gustan los girasoles.
 -->
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
+##<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
 <br>
 
 <p align="center">
