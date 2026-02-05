@@ -15,7 +15,6 @@
   </p>
 
 
-
 <!--
 <h4 align="center">
   I'm a first-year student in the Multiplatform Application Development (DAM) program.<br>
@@ -25,19 +24,8 @@
 -->
 
 
-<!--
-<h2> About Me </h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b></h2>
 
-- 🌱 I’m currently studying first year of DAM
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
--->
-
-##<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
 <br>
 
 <p align="center">
