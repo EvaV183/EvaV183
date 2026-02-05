@@ -7,44 +7,28 @@
   </ul>
 </div>
 
-<!--
-<h1 style="display: inline-block">Hi , I'm Eva Villa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>  
-<p href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;">
-</p>
--->
 
 <h2>✏️ About Me</h2>
+<br>
   <p>
   I'm a second-year student in the Multiplatform Application Development (DAM). I've studied Java, Python, JavaScript, and TypeScript through various courses, and I'm passionate about building creative and practical solutions. I'm eager to keep learning, collaborate on     exciting projects, and grow as a developer.
   </p>
 
 
-<!--
-<h4 align="center">
-  I'm a first-year student in the Multiplatform Application Development (DAM) program.<br>
-  I've studied Java, Python, JavaScript, and TypeScript through various courses, and I'm passionate about building creative and practical solutions.<br>
-  I'm eager to keep learning, collaborate on exciting projects, and grow as a developer.
-</h4>
--->
-
-
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b></h2>
-
 <br>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,ts,css,html,django,express,nodejs,postman,mysql,vscode,idea,eclipse&perline=14" />
 </p>
+
 
 <div>
   <p align = "center">
   	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
   </p>
 </div>
+
 
 
 <!--
