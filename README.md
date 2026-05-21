@@ -11,7 +11,7 @@
 <h2>✏️ About Me</h2>
 <br>
   <p>
-  I'm a second-year student in the Multiplatform Application Development (DAM). I've studied Java, Python, JavaScript, and TypeScript through various courses, and I'm passionate about building creative and practical solutions. I'm eager to keep learning, collaborate on     exciting projects, and grow as a developer.
+  Recently graduated in the Multiplatform Application Development (DAM). I've studied Java, Python, Kotlin, JavaScript, and TypeScript through various courses, and I'm passionate about building creative and practical solutions. I'm eager to keep learning, collaborate on exciting projects, and grow as a developer.
   </p>
 <br>
 
@@ -20,7 +20,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,ts,css,html,django,express,nodejs,postman,mysql,vscode,idea,eclipse&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,kotlin,js,ts,css,html,django,angular,astro,express,nodejs,mysql,postman,docker,git&perline=14"/>
 </p>
 
 
